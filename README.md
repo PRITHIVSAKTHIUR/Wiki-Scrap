@@ -67,6 +67,16 @@ WikiScrapper is built using the following technologies:
         soup = BeautifulSoup(response.content, 'html.parser')
 
 ```
+
+## Dependencies
+
+| Package        | Version  | Description                                                                 |
+|----------------|----------|-----------------------------------------------------------------------------|
+| `beautifulsoup4` | 4.12.3   | A Python library for parsing HTML and XML documents, providing idiomatic ways of navigating, searching, and modifying the parse tree. |
+| `requests`     | 2.32.3   | A simple and elegant HTTP library for Python, built for human beings.        |
+| `gradio`       | Latest   | A user-friendly Python library for building machine learning and data science web apps.  |
+
+
 ![alt text](assets/image47.png)
 
 ### Conclusion
