@@ -76,6 +76,7 @@ WikiScrapper is built using the following technologies:
 | `requests`     | 2.32.3   | A simple and elegant HTTP library for Python, built for human beings.        |
 | `gradio`       | Latest   | A user-friendly Python library for building machine learning and data science web apps.  |
 
+## Example 
 
 ![alt text](assets/image47.png)
 
