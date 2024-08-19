@@ -12,7 +12,7 @@ license: creativeml-openrail-m
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-
+![alt text](assets/dl.png)
 # WikiScrapper: A Simple Web Scraper for Wikipedia Articles
 
 In the age of information, accessing accurate and relevant data quickly is more important than ever. Wikipedia, being one of the most extensive repositories of human knowledge, is often the go-to source for quick information on almost any topic. However, manually searching and sifting through Wikipedia content can be time-consuming, especially if you want to fetch specific data or images. 
