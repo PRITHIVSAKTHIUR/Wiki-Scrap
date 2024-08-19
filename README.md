@@ -67,6 +67,7 @@ WikiScrapper is built using the following technologies:
         soup = BeautifulSoup(response.content, 'html.parser')
 
 ```
+![alt text](assets/image47.png)
 
 ### Conclusion
 
